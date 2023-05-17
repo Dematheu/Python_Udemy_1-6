@@ -29,3 +29,5 @@ new_image.save(
     quality=70,
     exif=exif
 )
+
+# modificação.
