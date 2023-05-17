@@ -1,0 +1,8 @@
+Prezado $nome,
+
+Informamos que sua mensalidade de ${valor} será cobrada no dia $data. Caso deseje
+cancelar o serviço, entre em contato com a $empresa$ pelo telefone $telefone.
+
+Atenciosamente,
+
+${empresa}

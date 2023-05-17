@@ -1,0 +1,4 @@
+Olá mundo.
+Hello world.
+Meu nome é Lucas
+Muito prazer.

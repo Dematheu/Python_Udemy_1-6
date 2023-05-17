@@ -1,0 +1,30 @@
+[
+  {
+    "nome": "Lucas",
+    "sobrenome": "de Matheu",
+    "idade": 31,
+    "ativo": false,
+    "notas": [
+      "A",
+      "A+"
+    ],
+    "telefones": {
+      "comercial": "11 99999-9999",
+      "pessoal": "11 98888-8888"
+    }
+  },
+  {
+    "nome": "Roberta",
+    "sobrenome": "D'Ambrosio",
+    "idade": 30,
+    "ativo": false,
+    "notas": [
+      "A+",
+      "B"
+    ],
+    "telefones": {
+      "comercial": "11 97777-7777",
+      "pessoal": "11 94444-5555"
+    }
+  }
+]

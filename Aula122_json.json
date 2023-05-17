@@ -1,0 +1,20 @@
+[
+  {
+    "brand": "Volkswagen",
+    "name": "Fusca",
+    "color": "vermelho",
+    "year": 1975
+  },
+  {
+    "brand": "Citroen",
+    "name": "C4 VTR",
+    "color": "preto",
+    "year": 2006
+  },
+  {
+    "brand": "GM",
+    "name": "Onix",
+    "color": "prata",
+    "year": 2020
+  }
+]
