@@ -1,7 +1,7 @@
 nome = 'Lucas de Matheu'
 altura = 1.80
 peso = 85
-imc = peso / (altura * altura) # tanto faz qual usar
+imc = peso / (altura * altura)  # tanto faz qual usar
 imc = peso / altura ** 2       # tanto faz qual usar
 
 print(nome, 'tem', altura, 'de altura,')
